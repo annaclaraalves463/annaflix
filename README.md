@@ -1,6 +1,8 @@
 <head>
   <link rel="stylesheet" hre="styles.css"/>
+  <titulo></titulo>
 </head>
+
 <body>
 
 <header>ALURAFLIX</header>
