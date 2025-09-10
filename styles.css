@@ -1,10 +1,10 @@
 body { 
-color: black;
+color: darkmagenta;
 blackground: lightpink;
 }
 header{
-  border-botton:solid 2px rgb(42,122,288);
+  border-botton:solid 2px rgb(136,656,188);
   padding: 20px;
-  front-size: 32px;
-  color: rgb(42,122,288);
+  front-size: 14px;
+  color: rgb(136,656,188);
 }
