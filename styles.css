@@ -8,3 +8,13 @@ header{
   front-size: 14px;
   color: rgb(136,656,188);
 }
+section {
+  backgroud: rgb(136,656,188);
+  padding-botton:80px;
+  padding-top: 80px;
+  display: flex;
+  justify-content: center;
+}
+.chamada-texto{
+  margin-right: 5%;
+}
